@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Pandas](https://img.shields.io/badge/Pandas-EDA-orange)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-red)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+
 # 📊 Project Observations – Step-by-Step Explanation (Data-Driven)
 
 ## 1️⃣ Data Collection (Web Scraping)
